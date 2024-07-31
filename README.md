@@ -1,2 +1,2 @@
 # Tailwind-Project
-I created this website based on <b>mertjf.github.io/tailblocks/</b>
+I created this website based on <b>https://tailblocks.cc/</b>
